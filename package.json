@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/uirapeixoto/mago-ascensao-api#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "json-server": "^0.16.3"
   }
 }
