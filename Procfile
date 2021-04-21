@@ -1,1 +1,1 @@
-web: json-server --watch db/person.json
+web: npm start

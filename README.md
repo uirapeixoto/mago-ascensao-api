@@ -12,7 +12,7 @@
 1 . Clone this repo to anywhere on your computer.
 
 ```bash
-git clone https://github.com/jesperorb/json-server-heroku.git
+git clone https://github.com/uirapeixoto/mago-ascensao-api.git
 ```
 
 2 . Change `db.json` to **your own content** according to the [`json-server example`](https://github.com/typicode/json-server#example) and then `commit` your changes to git.
@@ -32,7 +32,7 @@ _this example will create `/posts` route , each resource will have `id`, `title`
 
 
 ## Deploy to **Heroku**
-<a href="https://heroku.com/deploy?template=https://github.com/eecs130/json-server-heroku/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/uirapeixoto/mago-ascensao-api/tree/main">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
