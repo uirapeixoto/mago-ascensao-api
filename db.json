@@ -169,14 +169,14 @@
   "usuarios": [
     {
       "id": 1,
-      "dataCriacao": "2021-04-20",
-      "dataAlteracao": "2021-04-20",
+      "data_criacao": "2021-04-20",
+      "data_alteracao": "2021-04-20",
       "nome": "Uira Peixoto",
       "filcha_personagem": [
         {
           "personagem": {
             "id": 1,
-            "idUsuario": 1,
+            "id_usuario": 1,
             "nome": "Jonh Doe",
             "jogador": "Jonh Doe",
             "natureza": "Fanatico",
