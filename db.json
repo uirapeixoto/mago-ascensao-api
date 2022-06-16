@@ -166,6 +166,68 @@
       "date": "1995-10-11"
     }
   ],
+  "tradicoes":[
+    {
+        "id": 1,
+        "nome": "Adeptos da Virtualidade",
+        "descricao": "Anarquistas brilhantes, os rebeldes Adeptos criam novas fronteiras juntando a tecnologia à alma. Cheios de atitude, é difícil acabar com estes sobreviventes.",
+        "esfera": "Correspondência"
+    },
+    {
+        "id": 2,
+        "nome": "Coro Celestial",
+        "descricao": "Estes magos buscam a unificação do mundo com o Uno de onde todas as coisas vieram.",
+        "esfera": "Primórdio"
+    },
+    {
+        "id": 3,
+        "nome": "Culto do Êxtase",
+        "descricao": "Romper as barreiras do tempo, da sociedade e da resistência é o Caminho desta Tradição rumo à Iluminação.",
+        "esfera": "Tempo"
+    },
+    {
+        "id": 4,
+        "nome": "Eutanatos",
+        "descricao": "Perseguidos erroneamente como cultistas da morte, esta Tradição procura o renascimento. Separando a palha do trigo, estes reencarnacionistas buscam um mundo novo e melhor.",
+        "esfera": "Entropia"
+    },
+    {
+        "id": 5,
+        "nome": "Filhos do Éter",
+        "descricao": "Embora muitas vezes sejam chamados de loucos, estes visionários orientam sua Grande Ciência através de teorias pessoais e de um código de honra.",
+        "esfera": "Matéria"
+    },
+    {
+        "id": 6,
+        "nome": "Irmandade de Akasha",
+        "descricao": "Místikos de ideologia oriental, a Irmandade procura a perfeição através da disciplina e da harmonia.",
+        "esfera": "Mente"
+    },
+    {
+        "id": 7,
+        "nome": "Oradores dos Sonhos",
+        "descricao": "Os que falam com espíritos”, estes xamãs primordiais lutam para romper as barreiras entre a carne e o espírito, juntando-os num só.",
+        "esfera": "Espírito"
+    },
+    {
+        "id": 8,
+        "nome": "Ordem de Hermes",
+        "descricao": "Mestres clássicos da educação e da disciplina, os magi Herméticos almejam a Ascensão através do aperfeiçoamento da sua arte.",
+        "esfera": "Forças"
+    },
+    {
+        "id": 9,
+        "nome": "Verbena",
+        "descricao": "Místikos primordiais, estes magos encontram a perfeição no interior, não no exterior. Sua Arte liga os ciclos do mundo com os ciclos da carne.",
+        "esfera": "Vida"
+    },
+    {
+        "id": 10,
+        "nome": "Vazios",
+        "descricao": "Místikos dedicados ao Romance, em todo o seu horror, tragédia e mistério do gótico, estes magos não muito coesos encontram suas raízes em Poe e Shelley, e dizem que Lord Byron foi o primeiro de Tradição Vazia. Não são parte do Conselho.",
+        "esfera": "nenhuma"
+    }
+],
   "usuarios": [
     {
       "id": 1,
