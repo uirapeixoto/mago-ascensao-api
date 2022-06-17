@@ -166,6 +166,18 @@
       "date": "1995-10-11"
     }
   ],
+  "faq":[
+    {
+      "id": 0,
+      "categoria":"",
+      "titulo":"",
+      "descricao":"",
+      "chave":"",
+      "marcador":"",
+      "revisao":"",
+      "ativo":true
+    }
+  ],
   "tradicoes":[
     {
         "id": 1,
